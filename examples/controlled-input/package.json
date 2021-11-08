@@ -3,11 +3,11 @@
     "start": "parcel html/index.html"
   },
   "dependencies": {
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "parcel": "^2.0.0-beta.2",
-    "purescript": "^0.14.3"
+    "parcel": "^2.0.0",
+    "purescript": "^0.14.5"
   }
 }

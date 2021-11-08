@@ -10,6 +10,7 @@ You can edit this file as you like.
   , "functions"
   , "maybe"
   , "nullable"
+  , "prelude"
   , "psci-support"
   , "react-basic"
   ]
